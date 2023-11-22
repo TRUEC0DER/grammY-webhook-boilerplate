@@ -1,4 +1,4 @@
-#⚙️ grammY-bot-boilerplate
+# ⚙️ grammY-bot-boilerplate
 
 Telegram NodeJS bot boilerplate for easy development.
 The project uses webhooks, inline keyboards, callbacks, MongoDB database and conversations plugin (consistently receiving information from the user)
